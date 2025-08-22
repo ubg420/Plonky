@@ -1,0 +1,1 @@
+"use strict";!function(){let s=!0;"pass"!==(new class{#s="pass";getProp(){return this.#s}}).getProp()&&(s=!1),s&&(window.C3_ModernJSSupport_OK=!0)}();
